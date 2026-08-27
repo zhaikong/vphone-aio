@@ -1,4 +1,7 @@
 # vphone-aio
+
+It seems someone randomly posted it again on X (Twitter) and my repo go viral again, I'd recommend using [vphone-cli](https://github.com/Lakr233/vphone-cli) for a better update and support. It's now support on iOS 27 on vphone-cli repo btw.
+
 1 script run the vphone (iOS 26.1), already jailbroken with full bootstrap installed
 
 Do this step by step:
